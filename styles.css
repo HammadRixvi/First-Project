@@ -1,0 +1,16 @@
+@keyframes ani1 {
+    from{
+        margin-left: initial;
+    }
+    to {
+        margin-left: 1210px;
+    }
+}
+@keyframes ani2 {
+    from{
+        margin-left: 1210px;
+    }
+    to {
+        margin-left: 0px;
+    }
+}
